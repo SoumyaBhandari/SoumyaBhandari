@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on NLP, Ml and AI projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about PCA, TNSE, NLP ,ML
-- 📫 How to reach me: https://www.linkedin.com/in/soumya-bhandari-1b8042130/ or mail me on soumyabhandari4@gmail
+- 📫 How to reach me: https://www.linkedin.com/in/soumya-bhandari-1b8042130/ or mail me on [soumyabhandari4@gmail.com]
 - ⚡ Fun fact: i love to work 
