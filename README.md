@@ -3,7 +3,7 @@
 <!--
 **SoumyaBhandari/SoumyaBhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently learning Applied Machine Learning
+* 🔭 I’m currently learning Applied Machine Learning
 - 🌱 I had worked as Data Scientist
 - 👯 I’m looking to collaborate on NLP, Ml and AI projects
 - 🤔 I’m looking for help with ...
