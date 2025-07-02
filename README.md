@@ -1,7 +1,7 @@
 ### Hi there 👋
 *I am soumya bhandari. I have worked on Tweets emotion Analysis project, Face Recognition, dimensionality reduction project etc. I also used kaggle data for learning like Haberman Cancer dataset, MNIST dataset and Iris dataset. I am passionate to work on more AI & Ml related projects.*
-- 🔭 I’m currently learning Applied Machine Learning
-- 🌱 I had worked as Data Scientist
+- 🔭 I’m currently learning Data Engineering and Machine Learning
+- 🌱 I had worked as Data Analyst, Data Engineer, Data Scientist
 - 👯 I’m looking to collaborate on NLP, Ml and AI projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about PCA, TNSE, NLP ,ML
